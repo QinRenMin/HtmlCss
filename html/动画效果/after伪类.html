@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .clear{
+            *zoom:1;
+        }
+       .clear:after{
+            content: 'afeter伪类生成的文字';
+            display: block;
+           clear: both;
+        }
+       .box{
+           border: 1px solid red;
+       }
+       .item{
+           width: 200px;
+           height: 200px;
+           background-color: blanchedalmond;
+           float: left;
+       }
+    </style>
+</head>
+<body>
+<div class="box clear">
+    <div class="item">
+
+    </div>
+
+</div>
+</body>
+</html>

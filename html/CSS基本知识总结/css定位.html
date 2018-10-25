@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>定位相关问题</title>
+    <style type="text/css">
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        #div1{
+            width: 200px;
+            height: 200px;
+            background: #00c6ff;
+        }
+        #div2{
+            width: 200px;
+            height: 200px;
+            background: yellow;
+        }
+        #div3{
+            width: 200px;
+            height: 200px;
+            background: greenyellow;
+        }
+        button{
+            background: aqua;
+            width: 180px;
+            margin-left: 200px;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+<!--
+1）relative(相对定位)
+    特征：
+    1.不影响元素本身特性（行内还是行内，块级元素还是块级元素）
+    2.不使元素脱离文档流（元素移动后保留原始的位置） 空着原来位置
+    3.如果没有定义偏移量，对元素本身没有影响
+    4.提升层级
+
+
+2）absolute（绝对定位）
+    特征：
+    1.使元素完全脱离文档流
+    2.行内支持宽高（行内转为块级元素）
+    3.块级标签内容撑开宽度
+    4.如果有定位父级，相对于定位父级发生偏移（相对于最近的一个position不为static的父元素来定位）
+      没有的话，相对于document发生
+    5.相对定位一般都是配合绝对定位使用
+    6.提升层级
+    7.对绝对定位元素设置float是无效的
+
+
+3）fixed（固定定位）
+        相对于浏览器的窗口来定位。
+    1. 设置了固定定位的行内元素，会转化为块级元素，可以设置宽高。
+    2. 设置了固定定位的块级元素，如果没有设置固定宽度，则其宽度不会自动拉伸至父元素的100%
+        而是由内容和内边距的宽度来决定的。
+
+
+4）inherit：规定应该从父元素继承 position 属性的值。
+
+
+5）static：默认值。没有定位，元素出现在正常的流中（忽略 top, bottom, left, right 或者 z-index 声明）。
+   元素的位置通过 "left", "top", "right" 以及 "bottom" 属性进行规定。
+-->
+
+    <div id ="div1">div1</div>
+    <div id="div2">div2</div>
+    <div id="div3">div3</div>
+
+
+    <button>原样</button>
+    <button>相对定位(relative)</button>
+    <button>绝对定位(absolute)</button>
+
+<script type="text/javascript">
+    window.onload = function(){
+        let oDiv = document.getElementsByTagName("div");
+        console.log( oDiv[0]);
+        let oButton = document.getElementsByTagName("button");
+        oButton[0].onclick = function () {
+           for(let i = 0; i < oDiv.length; i++){
+                oDiv[1].style.position = "";
+                oDiv[i].style.left = 0+'px';
+                oDiv[i].style.top = 0+'px';
+            }
+        };
+        oButton[1].onclick = function () {
+
+                oDiv[1].style.position = "relative";
+                oDiv[1].style.left = 200 +'px';
+                oDiv[1].style.top = 200 +'px';
+
+        };
+        oButton[2].onclick = function(){
+
+            oDiv[1].style.position = "absolute";
+            oDiv[1].style.left = 200 +'px';
+            oDiv[1].style.top = 200 +'px';
+        }
+    }
+
+</script>
+
+</body>
+</html>

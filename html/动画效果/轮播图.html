@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>轮播图</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            border: 0;
+
+        }
+        #ldiv{
+            width:1920px;
+            position: relative;
+            height: 600px;
+            overflow: hidden;
+            margin-left: 320px;
+        }
+        ul{
+            position: absolute;
+            display: inline-block;
+            height: 400px;
+            left:0;
+            font-size: 0;
+            -webkit-text-size-adjust:none;
+        }
+        ul li{
+            float: left;
+            overflow: hidden;
+            list-style: none;
+            display:inline-block;
+            font-size: 0;
+            -webkit-text-size-adjust:none;
+        }
+        img{
+            display: block;
+            position: relative;
+            width: 1920px;
+            height: 600px;
+            vertical-align:middle;
+        }
+
+        #btn{
+            position: absolute;
+            width: 1920px;
+            text-align: center;
+            bottom:0;
+        }
+       .active{
+            background: white;
+        }
+        a{
+            cursor: pointer;
+            display: inline-block;
+            width: 21px;
+            height: 21px;
+            margin-left: 15px;
+            background: #666666;
+        }
+
+       /*a：hover{*/
+            /*background: white;*/
+        /*}*/
+
+    </style>
+</head>
+<body>
+<div id="ldiv">
+    <ul >
+        <li><img src="../images/bg1.jpg" alt=""></li>
+        <li><img src="../images/bg2.jpg" alt=""></li>
+        <li><img src="../images/main5.jpg" alt=""></li>
+        <li><img src="../images/fall.jpg" alt=""></li>
+        <li><img src="../images/sky.jpg" alt=""></li>
+        <li><img src="../images/spring.jpg" alt=""></li>
+        <li><img src="../images/winter.jpg" alt=""></li>
+    </ul>
+    <div id="btn">
+        <a href="javascript:;" class="active"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+        <a href="#"></a>
+    </div>
+</div>
+<script>
+   window.onload = function () {
+       let div = document.getElementById('ldiv');
+       let ul = div.getElementsByTagName('ul')[0];
+       let aImg = document.getElementsByTagName('img');
+       let btn = document.getElementById('btn');
+       let allA = btn.getElementsByTagName('a');
+       let imgWidth = 1920;
+
+       ul.style.width = aImg.length*imgWidth+'px';
+
+       function startMove(ul, param2) {
+            ul.style.left = param2.left + 'px';
+       }
+       for(let i = 0;i < allA.length; i++) {
+           allA[i].index = i;
+           allA[i].onclick = function () {
+               for(let i = 0; i < allA.length; i++)
+               {
+                   allA[i].className = ''
+               }
+               this.className ='active';
+               startMove(ul,{left:-this.index*imgWidth});
+           };
+       }
+       setInterval(Run,3000);
+       var now = 0;
+       function Run() {
+        if(now === allA.length-1){
+               now = 0;
+           }
+           else {
+               now++;
+           }
+           for(let i = 0; i < allA.length; i++)
+           {
+               allA[i].className = ''
+           }
+           allA[now].className = 'active';
+           startMove(ul,{left:-now*imgWidth});
+       }
+
+   };
+
+
+</script>
+</body>
+</html>
