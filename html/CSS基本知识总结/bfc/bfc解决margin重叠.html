@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>解决margin重叠</title>
+    <style type="text/css">
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .content{
+           overflow: hidden;
+        }
+        p{
+            width: 100px;
+            height: 100px;
+            margin: 100px;
+            background: #ffcccc;
+        }
+    </style>
+</head>
+<body>
+<div class="content">
+    <p></p>
+</div>
+<div class="content">
+    <p></p>
+</div>
+</body>
+</html>

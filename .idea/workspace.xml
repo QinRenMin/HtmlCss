@@ -4,14 +4,24 @@
     <list default="true" id="cefb56f9-53d5-41e0-b912-622ac837934b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Ajax/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/basicalProject/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/bili/data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/bili/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/bili/public/showImg.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/myStudy/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/judgeFile.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/myform.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/提交表单信息.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc解决margin重叠.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/产生margin重叠.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/自适应两栏布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StudyJS" beforeDir="false" afterPath="$PROJECT_DIR$/../StudyJS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/轮播图.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/动画效果/轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/布局方案" beforeDir="false" afterPath="$PROJECT_DIR$/html/布局方案" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/布局方案/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/布局方案/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../react-demo" afterDir="false" />
     </list>
@@ -81,34 +91,35 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="20" />
+          <entry key="html" value="26" />
           <entry key="jpg" value="1" />
           <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="20" />
+          <entry key="HTML" value="26" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3790" />
+          <entry key="html" value="3946" />
           <entry key="js" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3790" />
+          <entry key="HTML" value="3946" />
           <entry key="JavaScript" value="141" />
         </counts>
       </usages-collector>
@@ -119,33 +130,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/块级和内联.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/css定位.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1711">
-              <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="87">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/产生margin重叠.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/浮动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/自适应两栏布局.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc清除浮动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc解决margin重叠.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -159,23 +201,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2783">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -185,8 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/Array.js" />
-        <option value="$PROJECT_DIR$/html/异步加载图片.html" />
         <option value="$PROJECT_DIR$/html/after伪类.html" />
         <option value="$PROJECT_DIR$/html/清除浮动.html" />
         <option value="$PROJECT_DIR$/html/overflow.html" />
@@ -231,6 +262,13 @@
         <option value="$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html" />
         <option value="$PROJECT_DIR$/js/test.js" />
         <option value="$PROJECT_DIR$/html/动画效果/轮播图.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决margin重叠.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc产生margin重叠.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/浮动.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/清除浮动.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/自适应两栏布局.html" />
+        <option value="$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html" />
       </list>
     </option>
   </component>
@@ -251,6 +289,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,11 +302,23 @@
               <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS基本知识总结" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS基本知识总结" type="462c0819:PsiDirectoryNode" />
+              <item name="bfc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,12 +330,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html/CSS基本知识总结/bfc" />
       <recent name="$PROJECT_DIR$/js/pos" />
       <recent name="$PROJECT_DIR$/html/Bom/拖拽事件" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,16 +423,18 @@
       <workItem from="1540542616785" duration="39000" />
       <workItem from="1540797494685" duration="1437000" />
       <workItem from="1543839493146" duration="394000" />
+      <workItem from="1544702803740" duration="1081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100240000" />
+    <option name="totallyTimeSpent" value="101321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,7 +446,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3282353" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3282353" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,12 +460,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/清除浮动.html" />
-    <entry file="file://$PROJECT_DIR$/js/Array.js" />
-    <entry file="file://$PROJECT_DIR$/html/1.html属性操作.html" />
-    <entry file="file://$PROJECT_DIR$/html/异步加载图片.html" />
-    <entry file="file://$PROJECT_DIR$/html/delete.html" />
-    <entry file="file://$PROJECT_DIR$/html/after伪类.html" />
     <entry file="file://$PROJECT_DIR$/html/overflow.html" />
     <entry file="file://$PROJECT_DIR$/html/百叶窗.html" />
     <entry file="file://$PROJECT_DIR$/html/轮播图.html" />
@@ -479,6 +527,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1450">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/块级和内联.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
@@ -493,15 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/css定位.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1711">
+        <state relative-caret-position="-763">
           <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -512,13 +563,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2783">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="87">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc解决margin重叠.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/产生margin重叠.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/bfc清除浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/自适应两栏布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
