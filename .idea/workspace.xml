@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefb56f9-53d5-41e0-b912-622ac837934b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ajax/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/basicalProject/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/myStudy/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/judgeFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/myform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/提交表单信息.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StudyJS" beforeDir="false" afterPath="$PROJECT_DIR$/../StudyJS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/动画效果/轮播图.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/动画效果/轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/布局方案" beforeDir="false" afterPath="$PROJECT_DIR$/html/布局方案" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../react-demo" afterDir="false" />
@@ -72,34 +78,37 @@
     <session id="2055994784">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="19" />
+          <entry key="html" value="20" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="19" />
+          <entry key="HTML" value="20" />
+          <entry key="Image" value="1" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3748" />
+          <entry key="html" value="3790" />
           <entry key="js" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3748" />
+          <entry key="HTML" value="3790" />
           <entry key="JavaScript" value="141" />
         </counts>
       </usages-collector>
@@ -141,11 +150,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2783">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -162,7 +180,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -212,6 +230,7 @@
         <option value="$PROJECT_DIR$/html/动画效果/背景图、.html" />
         <option value="$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html" />
         <option value="$PROJECT_DIR$/js/test.js" />
+        <option value="$PROJECT_DIR$/html/动画效果/轮播图.html" />
       </list>
     </option>
   </component>
@@ -238,6 +257,11 @@
             <path>
               <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,11 +370,12 @@
       <workItem from="1540467325009" duration="8997000" />
       <workItem from="1540542616785" duration="39000" />
       <workItem from="1540797494685" duration="1437000" />
+      <workItem from="1543839493146" duration="394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99846000" />
+    <option name="totallyTimeSpent" value="100240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
@@ -367,7 +392,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3282353" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -381,13 +406,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/bg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/清除浮动.html" />
     <entry file="file://$PROJECT_DIR$/js/Array.js" />
     <entry file="file://$PROJECT_DIR$/html/1.html属性操作.html" />
@@ -454,9 +472,6 @@
         <state relative-caret-position="-405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -493,7 +508,17 @@
     <entry file="file://$PROJECT_DIR$/js/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/动画效果/轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2783">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
