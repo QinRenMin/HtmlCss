@@ -21,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/../StudyJS" beforeDir="false" afterPath="$PROJECT_DIR$/../StudyJS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/轮播图.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/动画效果/轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/布局方案" beforeDir="false" afterPath="$PROJECT_DIR$/html/布局方案" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/布局方案/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/布局方案/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../react-demo" afterDir="false" />
     </list>
@@ -88,7 +87,7 @@
     <session id="2055994784">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -168,8 +167,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="378">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -280,7 +279,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="38" />
-    <option name="width" value="1844" />
+    <option name="width" value="1910" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -423,18 +422,18 @@
       <workItem from="1540542616785" duration="39000" />
       <workItem from="1540797494685" duration="1437000" />
       <workItem from="1543839493146" duration="394000" />
-      <workItem from="1544702803740" duration="1081000" />
+      <workItem from="1544702803740" duration="2081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101321000" />
+    <option name="totallyTimeSpent" value="102321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -446,7 +445,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3282353" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3282353" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -607,8 +606,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/CSS基本知识总结/bfc/解决自适应两栏布局.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="378">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
