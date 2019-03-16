@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSS基本知识总结/布局方案" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/html" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/html/布局方案" vcs="Git" />
   </component>
