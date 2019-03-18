@@ -11,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/judgeFile.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/myform.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/提交表单信息.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/存储/localStroage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/存储/sessionStorage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../js_algorithm/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../js_algorithm/冒泡排序/1-1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../js_algorithm/冒泡排序/1-2.js" afterDir="false" />
@@ -156,18 +158,18 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="35" />
+          <entry key="html" value="38" />
           <entry key="jpg" value="1" />
           <entry key="js" value="4" />
           <entry key="xml" value="1" />
@@ -175,7 +177,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="35" />
+          <entry key="HTML" value="38" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="4" />
           <entry key="XML" value="1" />
@@ -183,13 +185,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3973" />
+          <entry key="html" value="4244" />
           <entry key="js" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3973" />
+          <entry key="HTML" value="4244" />
           <entry key="JavaScript" value="141" />
         </counts>
       </usages-collector>
@@ -198,7 +200,35 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/存储/localStroage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/存储/sessionStorage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -210,13 +240,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html/delete.html" />
-        <option value="$PROJECT_DIR$/css/bg.css" />
         <option value="$PROJECT_DIR$/html/背景图、.html" />
         <option value="$PROJECT_DIR$/html/1.html属性操作.html" />
         <option value="$PROJECT_DIR$/html/百叶窗.html" />
@@ -266,6 +294,8 @@
         <option value="$PROJECT_DIR$/html/布局方案/上中下一栏式布局.html" />
         <option value="$PROJECT_DIR$/html/布局方案/双飞翼.html" />
         <option value="$PROJECT_DIR$/html/布局方案/左中右双飞翼布局.html" />
+        <option value="$PROJECT_DIR$/html/存储/localStroage.html" />
+        <option value="$PROJECT_DIR$/html/存储/sessionStorage.html" />
       </list>
     </option>
   </component>
@@ -297,7 +327,13 @@
             <path>
               <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS基本知识总结" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="存储" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,16 +446,18 @@
       <workItem from="1544702803740" duration="2081000" />
       <workItem from="1545392382452" duration="3761000" />
       <workItem from="1552745024964" duration="2549000" />
+      <workItem from="1552819443194" duration="3165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108631000" />
+    <option name="totallyTimeSpent" value="111796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -431,7 +469,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32705882" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32705882" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -445,8 +483,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/正则/test方法.js" />
-    <entry file="file://$PROJECT_DIR$/js/正则/search方法.js" />
     <entry file="file://$PROJECT_DIR$/js/正则/exec方法.js" />
     <entry file="file://$PROJECT_DIR$/js/this/this隐式绑定.js" />
     <entry file="file://$PROJECT_DIR$/js/正则/replace中的回调函数参数.js" />
@@ -473,13 +509,6 @@
     <entry file="file://$PROJECT_DIR$/html/动画效果/delete.html" />
     <entry file="file://$PROJECT_DIR$/html/动画效果/overflow.html" />
     <entry file="file://$PROJECT_DIR$/html/动画效果/分页显示.html" />
-    <entry file="file://$PROJECT_DIR$/html/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bg1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -512,6 +541,27 @@
     <entry file="file://$PROJECT_DIR$/CSS基本知识总结/bfc/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-348" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/存储/sessionStorage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/存储/localStroage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
       </provider>
     </entry>
   </component>
