@@ -11,6 +11,25 @@
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/judgeFile.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/myform.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ajax/表单提交/提交表单信息.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/1.html属性操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/after伪类.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/分页显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/加载.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/异步加载图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/清除浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/百叶窗.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/动画效果/轮播图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/三角形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/垂直居中_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/垂直居中_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/垂直水平居中_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/垂直水平居中_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/水平居中.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/水平居中_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html/存储/localStroage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html/存储/sessionStorage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../js_algorithm/.idea/vcs.xml" afterDir="false" />
@@ -76,9 +95,17 @@
       <change beforePath="$PROJECT_DIR$/../MyApp/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyApp/yarn.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../StudyJS" beforeDir="false" afterPath="$PROJECT_DIR$/../StudyJS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/1.html属性操作.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/CSS基本知识总结/css定位.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/CSS基本知识总结/块级和内联.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/CSS基本知识总结/浮动相关.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/after伪类.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/overflow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/分页显示.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/加载.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/1.html属性操作.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/after伪类.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/delete.html" beforeDir="false" />
@@ -90,6 +117,11 @@
       <change beforePath="$PROJECT_DIR$/html/动画效果/百叶窗.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/动画效果/轮播图.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/布局方案" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/异步加载图片.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/清除浮动.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/百叶窗.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/背景图、.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/轮播图.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../js/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../react-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sublime/html/test.html" beforeDir="false" />
@@ -157,19 +189,21 @@
     <session id="2055994784">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="38" />
+          <entry key="html" value="44" />
           <entry key="jpg" value="1" />
           <entry key="js" value="4" />
           <entry key="xml" value="1" />
@@ -177,7 +211,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="38" />
+          <entry key="HTML" value="44" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="4" />
           <entry key="XML" value="1" />
@@ -200,30 +234,44 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/存储/localStroage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/存储/sessionStorage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/水平居中.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/双飞翼.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/两栏式布局三.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/两栏式布局二.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -240,7 +288,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -307,7 +355,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="38" />
-    <option name="width" value="1910" />
+    <option name="width" value="1890" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -316,7 +364,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -327,7 +374,31 @@
             <path>
               <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS基本知识总结" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS基本知识总结" type="462c0819:PsiDirectoryNode" />
+              <item name="布局" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML基本知识总结" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htj-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML基本知识总结" type="462c0819:PsiDirectoryNode" />
+              <item name="垂直居中问题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="htj-basic" type="b2602c69:ProjectViewProjectNode" />
@@ -339,6 +410,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,16 +518,17 @@
       <workItem from="1544702803740" duration="2081000" />
       <workItem from="1545392382452" duration="3761000" />
       <workItem from="1552745024964" duration="2549000" />
-      <workItem from="1552819443194" duration="3165000" />
+      <workItem from="1552819443194" duration="3993000" />
+      <workItem from="1555647786405" duration="1901000" />
+      <workItem from="1556070404478" duration="1197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111796000" />
+    <option name="totallyTimeSpent" value="115722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -483,11 +556,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/正则/exec方法.js" />
-    <entry file="file://$PROJECT_DIR$/js/this/this隐式绑定.js" />
-    <entry file="file://$PROJECT_DIR$/js/正则/replace中的回调函数参数.js" />
-    <entry file="file://$PROJECT_DIR$/js/this/this默认绑定.js" />
-    <entry file="file://$PROJECT_DIR$/js/this/引入count思考this的作用.js" />
     <entry file="file://$PROJECT_DIR$/js/正则/去掉前后空格.js" />
     <entry file="file://$PROJECT_DIR$/js/正则/找出重复项中出现次数做多的字符.js" />
     <entry file="file://$PROJECT_DIR$/js/正则/查找数字.js" />
@@ -543,24 +611,53 @@
         <state relative-caret-position="-348" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/存储/sessionStorage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="119">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/存储/localStroage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="203">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/两栏式布局一.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/HTML基本知识总结/垂直居中问题/水平居中.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/两栏式布局三.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/两栏式布局二.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS基本知识总结/布局/双飞翼.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
         </state>
       </provider>
     </entry>
